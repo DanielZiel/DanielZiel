@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Daniel
+### Hi there 👋, My Name is Daniell
 
 
 - 🔭 
