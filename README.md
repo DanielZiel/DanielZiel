@@ -4,5 +4,5 @@
 - 🔭 
 - 🌱 
 - 📫 
-- 😄 
+- 😄 Currently learning Kubernetes
 
