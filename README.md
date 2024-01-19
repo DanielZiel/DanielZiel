@@ -7,4 +7,4 @@ IT administrator with an interest in software development from a DevOps perspect
 - 📫 zielinskidaniel26@gmail.com
 - 😄 Student of computer science at the University of Economics in Katowice
 
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
