@@ -3,7 +3,7 @@
 IT administrator with an interest in software development from a DevOps perspective
 
 - 🔭 Looking for experience in SysAdmin/DevOps/Cloud Solutions
-- 🌱 Currently learning Docker/Kubernetes
+- 🌱 Currently learning Docker/Kubernetes/Ansible
 - 📫 zielinskidaniel26@gmail.com.
 - 😄 Student of computer science at the University of Economics in Katowice.
 
